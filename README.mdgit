@@ -1,0 +1,1 @@
+"# Week5CodingAssignment"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/valerie-berry/Week5CodingAssignment.gitgit push -u origin main
